@@ -59,3 +59,4 @@ function mostraAlternativas() {
 }
 
 mostraPergunta();
+
